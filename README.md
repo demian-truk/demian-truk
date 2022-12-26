@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Demian
-- 👀 I’m interested in backend development in Python programming language
+- 👀 I am currently interested in developing web applications in the Python programming language
 - 📫 You can contact me through the LinkedIn platform: www.linkedin.com/in/dima-teteruk
 
 <!---
